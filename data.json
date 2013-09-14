@@ -1,0 +1,4303 @@
+
+[
+{
+"id": "20090030",
+"value": "AMAROUAYACHE, YANIS",
+"promotion": "Césure"
+},
+{
+"id": "20120168",
+"value": "AN, DI",
+"promotion": "Césure"
+},
+{
+"id": "20110192",
+"value": "BERGER, VINCENT",
+"promotion": "Césure"
+},
+{
+"id": "20120003",
+"value": "ALBERCA, ROMAIN",
+"promotion": "Licence 1"
+},
+{
+"id": "20120006",
+"value": "AZZOUZI, HAJAR",
+"promotion": "Licence 1"
+},
+{
+"id": "20130183",
+"value": "BARTHUEL, PAUL",
+"promotion": "Licence 1"
+},
+{
+"id": "20130089",
+"value": "BEAUJEAN, FABIEN",
+"promotion": "Licence 1"
+},
+{
+"id": "20130026",
+"value": "BENNANI, ELGHALI",
+"promotion": "Licence 1"
+},
+{
+"id": "20130090",
+"value": "BERNARD, THIBAULT",
+"promotion": "Licence 1"
+},
+{
+"id": "20130091",
+"value": "BESTAOUI, SARAH",
+"promotion": "Licence 1"
+},
+{
+"id": "20130094",
+"value": "BIDAUD, THOMAS",
+"promotion": "Licence 1"
+},
+{
+"id": "20120009",
+"value": "BOITEL-DENYSET, VALENTIN",
+"promotion": "Licence 1"
+},
+{
+"id": "20120010",
+"value": "BOYER, CAMILLE",
+"promotion": "Licence 1"
+},
+{
+"id": "20130095",
+"value": "BRAHIM DOUDOU, BOUKHARI",
+"promotion": "Licence 1"
+},
+{
+"id": "20130097",
+"value": "BUDOWSKI, PAUL",
+"promotion": "Licence 1"
+},
+{
+"id": "20120001",
+"value": "ABID, SABRINA",
+"promotion": "Licence 2"
+},
+{
+"id": "20120002",
+"value": "AGOSTINUCCI, MATHIEU",
+"promotion": "Licence 2"
+},
+{
+"id": "20120005",
+"value": "ANDRIEUX, WILLIAM",
+"promotion": "Licence 2"
+},
+{
+"id": "20100001",
+"value": "AUBARD, VALENTIN",
+"promotion": "Licence 2"
+},
+{
+"id": "20120007",
+"value": "BELIERES, FRANCOIS",
+"promotion": "Licence 2"
+},
+{
+"id": "20110034",
+"value": "BOYER, PIERRE-STEPHEN",
+"promotion": "Licence 2"
+},
+{
+"id": "20110018",
+"value": "ADGHAR, MEZIANE",
+"promotion": "Licence 3"
+},
+{
+"id": "20110019",
+"value": "ANDRE, GRÉGOIRE",
+"promotion": "Licence 3"
+},
+{
+"id": "20110020",
+"value": "ANDRE, GUILLAUME",
+"promotion": "Licence 3"
+},
+{
+"id": "20110021",
+"value": "ASSERAF, FANNY",
+"promotion": "Licence 3"
+},
+{
+"id": "20110022",
+"value": "AURIAC, DAVID",
+"promotion": "Licence 3"
+},
+{
+"id": "20110023",
+"value": "BALLAS, CAMILLE",
+"promotion": "Licence 3"
+},
+{
+"id": "20100008",
+"value": "BALLIN, ALEXANDRE",
+"promotion": "Licence 3"
+},
+{
+"id": "20100009",
+"value": "BARNAVON, MAXIME",
+"promotion": "Licence 3"
+},
+{
+"id": "20110128",
+"value": "BATISTONI, EMERIC",
+"promotion": "Licence 3"
+},
+{
+"id": "20100028",
+"value": "BEAUFILS, IGOR",
+"promotion": "Licence 3"
+},
+{
+"id": "20110024",
+"value": "BEDRAT, IDRISS",
+"promotion": "Licence 3"
+},
+{
+"id": "20110025",
+"value": "BEKKALI, AMINE",
+"promotion": "Licence 3"
+},
+{
+"id": "20110026",
+"value": "BENATAR, JENNIFER",
+"promotion": "Licence 3"
+},
+{
+"id": "20110027",
+"value": "BENET, LOÏC",
+"promotion": "Licence 3"
+},
+{
+"id": "20100010",
+"value": "BERROS, ADAM",
+"promotion": "Licence 3"
+},
+{
+"id": "20110028",
+"value": "BLIN, ANTHONY",
+"promotion": "Licence 3"
+},
+{
+"id": "20100033",
+"value": "BOILARD, SYLVAIN",
+"promotion": "Licence 3"
+},
+{
+"id": "20110029",
+"value": "BOJKO, JÉRÉMY",
+"promotion": "Licence 3"
+},
+{
+"id": "20100011",
+"value": "BOUDAILLIEZ, SYLVIE",
+"promotion": "Licence 3"
+},
+{
+"id": "20110030",
+"value": "BOUFEKANE, MOHAMED",
+"promotion": "Licence 3"
+},
+{
+"id": "20110031",
+"value": "BOURGOGNE, LUCAS",
+"promotion": "Licence 3"
+},
+{
+"id": "20110032",
+"value": "BOURGOGNE, RENAUD",
+"promotion": "Licence 3"
+},
+{
+"id": "20110033",
+"value": "BOURILLON, AURÉLIEN",
+"promotion": "Licence 3"
+},
+{
+"id": "20100012",
+"value": "BRASSEUR, SOLÈNE",
+"promotion": "Licence 3"
+},
+{
+"id": "20110035",
+"value": "BROGGINI, NICOLAS",
+"promotion": "Licence 3"
+},
+{
+"id": "20120136",
+"value": "ANDRIANARIVELO, FABIEN",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20130001",
+"value": "AYAD, GUILLAUME",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20130009",
+"value": "BADLOU, MICHAEL-JOHN",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20120137",
+"value": "BARBIER, CLÉMENT",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20130025",
+"value": "BARRY, THIERNO HABIB",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20130080",
+"value": "BERTHE, BENJAMIN",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20130002",
+"value": "BOURGEAUX, BENJAMIN",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20120139",
+"value": "BOUZGAOU, AISSA",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20100023",
+"value": "ABBADIE, JEAN-BAPTISTE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120134",
+"value": "ABD-EL RAHMAN, ISLEM",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120135",
+"value": "ACCELIO, ANTOINE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090001",
+"value": "AFLALO, RUBEN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090002",
+"value": "AGUER, ANTOINE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100024",
+"value": "AIT-SSI, YOUSRA",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110139",
+"value": "AIZPURU, FRANÇOIS",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100025",
+"value": "ALBERT, JULIEN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110002",
+"value": "ALLEN, MAËVA",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100026",
+"value": "AQUINO BALTODANO, ROSA FABIOLA",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100027",
+"value": "ARUMUGADAS, JEGATHA",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110144",
+"value": "AZEGROUZ, HAJAR",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110145",
+"value": "BAKAYOKO, DAOUDA",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110146",
+"value": "BARAKATY, SOUKAIENA",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090004",
+"value": "BASKARANE, KÉVIN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120138",
+"value": "BAZIN, JEAN-LOUIS",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100029",
+"value": "BEAUX, KEVIN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100030",
+"value": "BELOEIL, SÉBASTIEN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100031",
+"value": "BENABDENNBI, MEHDI",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110147",
+"value": "BENAMRAM, SACHA",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110191",
+"value": "BENHADDA, SABRI",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100032",
+"value": "BERGERON, ROMAIN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110148",
+"value": "BONNET, SÉBASTIEN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090005",
+"value": "BORRI, ROMAIN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100034",
+"value": "BOURGAREL, SIMON",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100035",
+"value": "BRILLION, JULIE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090006",
+"value": "BRIZARD, THOMAS",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100036",
+"value": "BRUGIERE-GARDE, THIBAULT",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130096",
+"value": "BRUNEL, JÉRÉMY",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100037",
+"value": "BRUNET, JULIEN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110179",
+"value": "AHMED SCICCHITANO, GABRIEL",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090029",
+"value": "ALBARET, AUDRIC",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100168",
+"value": "AMEGASHIE, CHRISTOPHER",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110180",
+"value": "AMPHAVANNASOUK, TEDDY",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110181",
+"value": "ANDRE, EMILIEN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110182",
+"value": "ANNEROSE, JONATHAN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20080001",
+"value": "ANTWI, WILLIAM",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20080002",
+"value": "ARROYO, SYLVAIN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090031",
+"value": "AUGUSTIN, THIBAUT",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090032",
+"value": "AZERAD, CLÉMENT",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110183",
+"value": "BABAY, MOHAMED FIRAS",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120169",
+"value": "BACHIR, KATHIA",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110185",
+"value": "BAILLY, CHARLOTTE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100115",
+"value": "BALAZS, CONSTANCE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090033",
+"value": "BARBERI, KEVIN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090035",
+"value": "BASSET, MARIE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100116",
+"value": "BASSINE, SALIM",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110186",
+"value": "BAUDONNEL, OWEN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20080025",
+"value": "BCHIR, BOUBAKER",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110187",
+"value": "BEAU, FLORENT",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110188",
+"value": "BEAUVOIS, ERWAN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090036",
+"value": "BELMONTE, LOIC",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110189",
+"value": "BEN HLAL, MARIEM",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20080027",
+"value": "BEN YOUNES, GHOFRANE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100117",
+"value": "BENATAR, JULIEN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110190",
+"value": "BENBATTA, LOTFI",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100118",
+"value": "BENOIT-JANNIN, ALEXANDRE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100119",
+"value": "BENSOUSSAN, JONAS",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090037",
+"value": "BERTHELOT, FLORENT",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090038",
+"value": "BERTRAND, BENJAMIN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100120",
+"value": "BIBALOU-BY-MOUTSING, LAURE-MIREILLE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100121",
+"value": "BLANC, JULIEN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110193",
+"value": "BOUIY, RIHAM",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20070001",
+"value": "BOUKHADCHA, LAURENT",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110194",
+"value": "BOUMESSOUER, WISSAM",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110195",
+"value": "BOUNTHONG, THOMAS",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100123",
+"value": "BOURGOIS, JULIEN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110196",
+"value": "BOUSSETA, NABIL",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110197",
+"value": "BREITENSTEIN, ANNA",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100124",
+"value": "BRUCKER, SARAH",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110184",
+"value": "BAHOULI, OUALID",
+"promotion": "Master Spécialisé"
+},
+{
+"id": "20090034",
+"value": "BARBOTIN, CLEMENT",
+"promotion": "Master Spécialisé"
+},
+{
+"id": "20100122",
+"value": "BOKOBZA, MICHAEL",
+"promotion": "Master Spécialisé"
+},
+{
+"id": "20120101",
+"value": "BETTIN, GUILLAUME",
+"promotion": "Passerelle Licence 1"
+},
+{
+"id": "20130092",
+"value": "BEYER, CHARLES",
+"promotion": "Passerelle Licence 1"
+},
+{
+"id": "20130093",
+"value": "BHANSALI, JOY",
+"promotion": "Passerelle Licence 1"
+},
+{
+"id": "20130003",
+"value": "BLOQUET, ROMAIN",
+"promotion": "Passerelle Licence 1"
+},
+{
+"id": "20120102",
+"value": "BUGADA, JULIEN",
+"promotion": "Passerelle Licence 1"
+},
+{
+"id": "20110013",
+"value": "BAGHER AZARI, YASHAR",
+"promotion": "Passerelle Licence 2"
+},
+{
+"id": "20120099",
+"value": "BENET, CEDRIC",
+"promotion": "Passerelle Licence 2"
+},
+{
+"id": "20120100",
+"value": "BERTRAND, ALEXANDRE",
+"promotion": "Passerelle Licence 2"
+},
+{
+"id": "20120140",
+"value": "CALOUD, JORIS",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120141",
+"value": "CALVARESI, FRANÇOIS",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090039",
+"value": "CAMBONIE, ROMAIN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120142",
+"value": "CAMBUZAT, REMI",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120011",
+"value": "CAMPY, JONATHAN",
+"promotion": "Licence 2"
+},
+{
+"id": "20090040",
+"value": "CANARD, PIERRE",
+"promotion": "Master Spécialisé"
+},
+{
+"id": "20100002",
+"value": "CANU, AXEL",
+"promotion": "Licence 3"
+},
+{
+"id": "20120194",
+"value": "CAO, BEIBEI",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100013",
+"value": "CAPDET, THÉO",
+"promotion": "Licence 3"
+},
+{
+"id": "20120143",
+"value": "CARABY, ALEXIS",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130019",
+"value": "CARBONNEL, GUILLAUME",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20120195",
+"value": "CARLETTO, ROMAIN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100038",
+"value": "CARLIER, JEANNE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130098",
+"value": "CARNEIRO, ALEXANDRE",
+"promotion": "Licence 1"
+},
+{
+"id": "20130062",
+"value": "CARPUAT, GUILLAUME",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20130099",
+"value": "CARRE, MATHIEU",
+"promotion": "Licence 1"
+},
+{
+"id": "20130100",
+"value": "CASTAGNE, OCÉANE",
+"promotion": "Licence 1"
+},
+{
+"id": "20120013",
+"value": "CASTEL, BASTIEN",
+"promotion": "Licence 2"
+},
+{
+"id": "20120014",
+"value": "CAVELIER DE CUVERVILLE D'ANGLADE, PIERRE-ARTHUR",
+"promotion": "Licence 1"
+},
+{
+"id": "20120144",
+"value": "CAZAL, GEOFFREY",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20120015",
+"value": "CAZANOVE, LAURENT",
+"promotion": "Licence 2"
+},
+{
+"id": "20110036",
+"value": "CAZAUDARRE, GERMAIN",
+"promotion": "Licence 2"
+},
+{
+"id": "20110037",
+"value": "CAZET, ADRIEN",
+"promotion": "Licence 3"
+},
+{
+"id": "20090007",
+"value": "CECCARELLI, ROMAIN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090041",
+"value": "CECCHI, THÉO",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20130101",
+"value": "CEREN, MATHIEU",
+"promotion": "Licence 1"
+},
+{
+"id": "20110198",
+"value": "CHAARI, ALAEDDINE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110038",
+"value": "CHABOT, PIERRE",
+"promotion": "Licence 3"
+},
+{
+"id": "20130102",
+"value": "CHANEMOUGAMOURTY, SABINE",
+"promotion": "Licence 1"
+},
+{
+"id": "20090008",
+"value": "CHANTRY, AURÉLIEN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110039",
+"value": "CHAN-WAI-NAM, GUILLAUME",
+"promotion": "Licence 3"
+},
+{
+"id": "20120016",
+"value": "CHARBIT, NATHAN",
+"promotion": "Licence 2"
+},
+{
+"id": "20100039",
+"value": "CHARBONNEL, THOMAS",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20080003",
+"value": "CHARBONNIER, ROLAND",
+"promotion": "Master Spécialisé"
+},
+{
+"id": "20110199",
+"value": "CHARLES MAHENDRAN, RAGULAN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120145",
+"value": "CHARLIER, CECILE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130103",
+"value": "CHATAIGNIER, FLORIAN",
+"promotion": "Licence 1"
+},
+{
+"id": "20090009",
+"value": "CHATY, GAUTHIER",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120017",
+"value": "CHAUMONT, GUILLAUME",
+"promotion": "Licence 2"
+},
+{
+"id": "20130104",
+"value": "CHAZAL, BAPTISTE",
+"promotion": "Licence 1"
+},
+{
+"id": "20090042",
+"value": "CHEBION, RODOLPHE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110040",
+"value": "CHEKROUN, THOMAS",
+"promotion": "Licence 3"
+},
+{
+"id": "20110041",
+"value": "CHEMINEAU, AUGUSTIN",
+"promotion": "Licence 3"
+},
+{
+"id": "20110042",
+"value": "CHEN, CHRISTIAN",
+"promotion": "Licence 3"
+},
+{
+"id": "20130058",
+"value": "CHEN, QIAN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120018",
+"value": "CHEREL, LOUIS",
+"promotion": "Licence 2"
+},
+{
+"id": "20100125",
+"value": "CHEUCLE, PIERRE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090043",
+"value": "CHEVALIER, GUILLAUME",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110043",
+"value": "CHEVROT, MARIANNE",
+"promotion": "Licence 3"
+},
+{
+"id": "20120128",
+"value": "CHHUON, PHILIPPE",
+"promotion": "Licence 3"
+},
+{
+"id": "20120146",
+"value": "CHIHAL, SOUFIANE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090044",
+"value": "CHOI, JEAN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090045",
+"value": "CHONG, YIN-KIT",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100040",
+"value": "CHOORAMUN, VICKY",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130017",
+"value": "CHOUGUES, CEDRIC ARIINUI",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110044",
+"value": "CHRETIEN, RÉMY",
+"promotion": "Licence 3"
+},
+{
+"id": "20110200",
+"value": "CHRISTIAENS, MATTHIEU",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20130083",
+"value": "CHUNNE, ARIIHAU",
+"promotion": "Licence 3"
+},
+{
+"id": "20110201",
+"value": "CHUPIN, ARTHUR",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090046",
+"value": "CLEMENT, GUILLAUME",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120019",
+"value": "CLEMENT, VINCENT",
+"promotion": "Licence 2"
+},
+{
+"id": "20120020",
+"value": "CLOSSET, MANON",
+"promotion": "Licence 1"
+},
+{
+"id": "20110045",
+"value": "COCHET, MATHIEU",
+"promotion": "Licence 3"
+},
+{
+"id": "20100041",
+"value": "COLIN, MATHIEU",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110046",
+"value": "COLIN, SÉBASTIEN",
+"promotion": "Licence 3"
+},
+{
+"id": "20130064",
+"value": "COLLIN, JIMMY",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20130105",
+"value": "COMBEAUX, ALEXIS",
+"promotion": "Licence 1"
+},
+{
+"id": "20130106",
+"value": "CONNIER, SASHA",
+"promotion": "Licence 1"
+},
+{
+"id": "20110047",
+"value": "CONQ, AMAURY",
+"promotion": "Licence 3"
+},
+{
+"id": "20120147",
+"value": "CORNEC, PAUL",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100042",
+"value": "CORNET, MAXENCE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130107",
+"value": "CORNIER, THOMAS",
+"promotion": "Licence 1"
+},
+{
+"id": "20120021",
+"value": "CORNUT, JULIEN",
+"promotion": "Licence 2"
+},
+{
+"id": "20110048",
+"value": "COUCKE, ELLIOT",
+"promotion": "Licence 3"
+},
+{
+"id": "20110149",
+"value": "COULOUMY, THIBAULT",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090047",
+"value": "COURILLEAU, NICOLAS",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110049",
+"value": "COUSIN, ARTHUR",
+"promotion": "Licence 3"
+},
+{
+"id": "20110150",
+"value": "COUZIN, KÉVIN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100043",
+"value": "CRETEAUD, LUCAS",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120103",
+"value": "CUESTA, QUENTIN",
+"promotion": "Passerelle Licence 2"
+},
+{
+"id": "20080004",
+"value": "CURLIER, SEBASTIEN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20130084",
+"value": "CUSSAC, FRANCK",
+"promotion": "Licence 2"
+},
+{
+"id": "20110202",
+"value": "CYPCARZ, WILLIAM-ALEXANDRE",
+"promotion": "Master Spécialisé"
+},
+{
+"id": "20120022",
+"value": "D'ABOVILLE, AUDOUIN",
+"promotion": "Licence 2"
+},
+{
+"id": "20130108",
+"value": "DAILLIE, CORENTIN",
+"promotion": "Licence 1"
+},
+{
+"id": "20130109",
+"value": "DAKI, MAROUANE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110203",
+"value": "DAMLENCOUR, JÉRÔME",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120148",
+"value": "D'ARTIGUES, ARNAUD",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110050",
+"value": "DAUBIAN, PAUL",
+"promotion": "Licence 3"
+},
+{
+"id": "20100044",
+"value": "DAVAIN, CHARLOTTE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100056",
+"value": "DAVID, AURÉLIEN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090048",
+"value": "DE ANDRADE, ROMAIN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100126",
+"value": "DE BATZ DE TRENQUELLEON, CHRISTOPHE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100045",
+"value": "DE CONIHOUT, PIERRE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110051",
+"value": "DE LA ROCHE SAINT ANDRE, MATTHIEU",
+"promotion": "Licence 3"
+},
+{
+"id": "20110052",
+"value": "DE LACHAUX, PIERRE",
+"promotion": "Licence 3"
+},
+{
+"id": "20090049",
+"value": "DE ROCQUIGNY, HUBERT",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100046",
+"value": "DE SAINT MATHIEU, SIXTINE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130110",
+"value": "DECOSTER, ANTOINE",
+"promotion": "Passerelle Licence 1"
+},
+{
+"id": "20100014",
+"value": "DELABY, RAPHAËL",
+"promotion": "Licence 3"
+},
+{
+"id": "20100127",
+"value": "DELACOUR ONDENAULT, DEVY",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090050",
+"value": "DELAHAYE, FLORENT",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100047",
+"value": "DELGATTE, ÉDOUARD",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100048",
+"value": "DELPECH, MATHIEU",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20080005",
+"value": "DELUBAC, BAPTISTE",
+"promotion": "Double diplôme - Stage AUDENCIA"
+},
+{
+"id": "20120149",
+"value": "DENIEL, ROMAIN",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20110204",
+"value": "DEPAILLAT, XAVIER",
+"promotion": "Master Spécialisé"
+},
+{
+"id": "20120023",
+"value": "DERBOUX, GUILLAUME",
+"promotion": "Licence 2"
+},
+{
+"id": "20130111",
+"value": "DERDERIAN, ABEL",
+"promotion": "Licence 1"
+},
+{
+"id": "20130027",
+"value": "DERNAOUI, MOHAMED GHAZI",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20110205",
+"value": "DESBOIS, ARNAULD",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110206",
+"value": "DESGEORGES, THOMAS",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110053",
+"value": "DESNEUX, ELIAS",
+"promotion": "Licence 2"
+},
+{
+"id": "20090051",
+"value": "DESORMAIS, GWENDOLINE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090052",
+"value": "DESPREZ, ARTHUR",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120024",
+"value": "DESVAUX, LOU-EVANS",
+"promotion": "Licence 2"
+},
+{
+"id": "20110054",
+"value": "DETOURBET, MATHIS",
+"promotion": "Licence 3"
+},
+{
+"id": "20110055",
+"value": "DHOMOU, DONALD",
+"promotion": "Licence 2"
+},
+{
+"id": "20110207",
+"value": "DI SALVO, ALEXANDRE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20130112",
+"value": "DIALLO, ALPHA OUMAR",
+"promotion": "Licence 1"
+},
+{
+"id": "20110151",
+"value": "DIARRA, BOU",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110152",
+"value": "DIBETON, SANDRA",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100049",
+"value": "DIEMER, JULIEN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110153",
+"value": "DINAR, HAJAR",
+"promotion": "Césure"
+},
+{
+"id": "20120198",
+"value": "DING, JING",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100050",
+"value": "DINH, MARC",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100128",
+"value": "DOGRU , ERKAN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110056",
+"value": "DOLO, GAËL",
+"promotion": "Licence 2"
+},
+{
+"id": "20130113",
+"value": "DOMINIQUE, SÉBASTY",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110154",
+"value": "DORAIL, STÉPHANE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120025",
+"value": "DORDAIN, JEAN-CHARLES",
+"promotion": "Licence 2"
+},
+{
+"id": "20110057",
+"value": "DRONIOU, MICKAEL",
+"promotion": "Licence 3"
+},
+{
+"id": "20110058",
+"value": "DRULA, THOMAS",
+"promotion": "Licence 2"
+},
+{
+"id": "20100051",
+"value": "DUARTE, ALEXANDRE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20080006",
+"value": "DUBUS, MATTHIEU",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130114",
+"value": "DUHAMEL, BERTRAND",
+"promotion": "Licence 1"
+},
+{
+"id": "20100052",
+"value": "DUMAS, ARNOLD",
+"promotion": "Licence 3"
+},
+{
+"id": "20100129",
+"value": "DUPAS, MATTHIEU",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110059",
+"value": "DUPERET, CLÉMENT",
+"promotion": "Licence 3"
+},
+{
+"id": "20090053",
+"value": "DUPON, GUILLAUME",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100130",
+"value": "DUPRE, GUILLAUME",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090054",
+"value": "DURAN, SERVET",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090011",
+"value": "DURAND, GUILLAUME",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130115",
+"value": "DURET, MAXIMILIEN",
+"promotion": "Licence 1"
+},
+{
+"id": "20120027",
+"value": "EBBO, GUILLAUME",
+"promotion": "Licence 2"
+},
+{
+"id": "20110155",
+"value": "ECHAOUI, SAMIR",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120028",
+"value": "EDOUIN, MATHIAS",
+"promotion": "Licence 2"
+},
+{
+"id": "20090055",
+"value": "EISENBERG, ROBIN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110208",
+"value": "EL ALAMI ZERHOUNI, SEIF EDDINE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090056",
+"value": "EL BEZE, RAPHAEL",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100131",
+"value": "EL BOUKHARI, MOHAMED AMINE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110209",
+"value": "EL MJIYAD, MOHAMED YASSINE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20130116",
+"value": "EL MJIYAD, SAAD",
+"promotion": "Licence 1"
+},
+{
+"id": "20080049",
+"value": "EL MOUAHID, HAJAR",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110210",
+"value": "EL NADERI, ALAA",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100132",
+"value": "EL RHAZI, AHMED",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110156",
+"value": "ENFROY, JÉRÉMY",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130117",
+"value": "ENG, CATHERINE",
+"promotion": "Licence 1"
+},
+{
+"id": "20110060",
+"value": "ESCUDIER, NICOLAS",
+"promotion": "Licence 3"
+},
+{
+"id": "20100053",
+"value": "ESEN, SINAN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120029",
+"value": "ESTEBE, ARTHUR",
+"promotion": "Licence 1"
+},
+{
+"id": "20100054",
+"value": "EVRARD, PIERRE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110129",
+"value": "FABRE, ADRIEN",
+"promotion": "Licence 3"
+},
+{
+"id": "20100057",
+"value": "FABRE, MAXIME",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130118",
+"value": "FAILLA, ROMAIN",
+"promotion": "Licence 1"
+},
+{
+"id": "20100133",
+"value": "FAIRY, BENJAMIN",
+"promotion": "Double diplôme - Stage AUDENCIA"
+},
+{
+"id": "20080007",
+"value": "FAKEERAH, BRIAN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20130011",
+"value": "FAKIR, IMANE",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20080050",
+"value": "FARINE, ETIENNE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120150",
+"value": "FAUVIN, FLORENT",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110061",
+"value": "FAVERO, ALICE",
+"promotion": "Licence 3"
+},
+{
+"id": "20130119",
+"value": "FAVIN-LEVEQUE, AUGUSTIN",
+"promotion": "Licence 1"
+},
+{
+"id": "20130120",
+"value": "FAVOT, GABRIEL",
+"promotion": "Licence 1"
+},
+{
+"id": "20110169",
+"value": "FAYS, ROMAIN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120151",
+"value": "FEHRI, CYRINE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120152",
+"value": "FERNANDES, PATRICK",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110211",
+"value": "FERRAND, VANY",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090012",
+"value": "FERRANDINI-CHARDON, MAXIME",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090057",
+"value": "FERRER, ARNAUD",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100058",
+"value": "FERRI, LUCA",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090058",
+"value": "FEUTRIE, LOUIS",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120105",
+"value": "FEVRIER, JULIEN",
+"promotion": "Passerelle Licence 2"
+},
+{
+"id": "20110014",
+"value": "FICHANT, MAVRICK",
+"promotion": "Passerelle Licence 2"
+},
+{
+"id": "20100059",
+"value": "FIDAHOUSSEN, HOUZEFA",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110130",
+"value": "FILIZZOLA, MATTHIEU",
+"promotion": "Licence 3"
+},
+{
+"id": "20120030",
+"value": "FLETY, DAMIEN",
+"promotion": "Licence 2"
+},
+{
+"id": "20120106",
+"value": "FLORANT, LORIS",
+"promotion": "Passerelle Licence 2"
+},
+{
+"id": "20130121",
+"value": "FLOURY, FLORIAN",
+"promotion": "Licence 1"
+},
+{
+"id": "20110062",
+"value": "FORNARA, HADRIEN",
+"promotion": "Licence 3"
+},
+{
+"id": "20110006",
+"value": "FORTIN, ETIENNE",
+"promotion": "Licence 2"
+},
+{
+"id": "20100060",
+"value": "FOUCHE, ALEXIS",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100134",
+"value": "FOUCHE, MARC",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100061",
+"value": "FOUILLARD, GRÉGOIRE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100062",
+"value": "FOURQUENAY, RÉMI",
+"promotion": "Licence 3"
+},
+{
+"id": "20100063",
+"value": "FRAGNIER, JEAN-BAPTISTE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130122",
+"value": "FRIDMAN, JOACHIM",
+"promotion": "Licence 1"
+},
+{
+"id": "20090059",
+"value": "FRISCH, RAPHAEL",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120031",
+"value": "GABBAI, JÉRÉMY",
+"promotion": "Licence 2"
+},
+{
+"id": "20130123",
+"value": "GARCIA, ADRIEN",
+"promotion": "Licence 1"
+},
+{
+"id": "20110063",
+"value": "GARCIA, QUENTIN",
+"promotion": "Licence 3"
+},
+{
+"id": "20120032",
+"value": "GARNIER, FLORIAN",
+"promotion": "Licence 2"
+},
+{
+"id": "20090013",
+"value": "GASTAUD, JULIA",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100135",
+"value": "GAUD, FRÉDÉRIC",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20080008",
+"value": "GAUTHIER, DENIS",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20130124",
+"value": "GAUTIER, ARTHUR",
+"promotion": "Licence 1"
+},
+{
+"id": "20090060",
+"value": "GAVANIER, MARC",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120033",
+"value": "GELBART, SIMON",
+"promotion": "Licence 2"
+},
+{
+"id": "20130021",
+"value": "GENET, FABIEN",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20110212",
+"value": "GEOFFROY, SARAH",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090061",
+"value": "GERMAN, BENJAMIN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090062",
+"value": "GERON, NICOLAS",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110213",
+"value": "GEZ, MAXIME",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110064",
+"value": "GHANDOUR, MOHAMED AMINE",
+"promotion": "Licence 3"
+},
+{
+"id": "20080009",
+"value": "GIANNI, ALEXANDRE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120034",
+"value": "GIRARD, AMELIE",
+"promotion": "Licence 2"
+},
+{
+"id": "20130125",
+"value": "GIRARDOT, THIBAUT",
+"promotion": "Licence 1"
+},
+{
+"id": "20130015",
+"value": "GIRAUD, MARTIN",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20100136",
+"value": "GIRAUD-SAUVEUR, MARC",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100016",
+"value": "GONTIER, MAXIME",
+"promotion": "Licence 3"
+},
+{
+"id": "20120107",
+"value": "GOUENARD, MAXIME",
+"promotion": "Passerelle Licence 1"
+},
+{
+"id": "20120153",
+"value": "GOUT, CLÉMENTINE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100064",
+"value": "GRANDGEORGE, HADRIEN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120200",
+"value": "GRANDI, HOUSSEM EDDINE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120200",
+"value": "GRANDI, HOUSSEM EDDINE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110131",
+"value": "GRANGER, ROMAIN",
+"promotion": "Licence 3"
+},
+{
+"id": "20120035",
+"value": "GRAU, THOMAS",
+"promotion": "Licence 2"
+},
+{
+"id": "20090063",
+"value": "GRENAT, JORDANE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110214",
+"value": "GRESSIN, ANTHONY",
+"promotion": "Césure"
+},
+{
+"id": "20080010",
+"value": "GRILLARD, FLORENTIN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120108",
+"value": "GROUARD DE TOCQUEVILLE, ALEXANDRE",
+"promotion": "Passerelle Licence 2"
+},
+{
+"id": "20130074",
+"value": "GU, YUNYI",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130126",
+"value": "GUEDES, MAXIME",
+"promotion": "Licence 1"
+},
+{
+"id": "20130008",
+"value": "GUEDJ, ALEXANDRE WILLIAM",
+"promotion": "Licence 1"
+},
+{
+"id": "20120202",
+"value": "GUEFACK DJIATSA, CEDRIC NICOL",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100065",
+"value": "GUENIN, MATTHIEU",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100137",
+"value": "GUEVEL, GLENN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110215",
+"value": "GUGLIELMI, PRESCILIA",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120109",
+"value": "GUIBORA, LAURE",
+"promotion": "Passerelle Licence 2"
+},
+{
+"id": "20120110",
+"value": "GUICHARD, BENJAMIN",
+"promotion": "Passerelle Licence 1"
+},
+{
+"id": "20120036",
+"value": "GUILLERM, ARNAUD",
+"promotion": "Licence 2"
+},
+{
+"id": "20110216",
+"value": "GUION, THOMAS",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110065",
+"value": "GUITTARD, AUDE",
+"promotion": "Licence 3"
+},
+{
+"id": "20120037",
+"value": "GULINO, MATTEO",
+"promotion": "Licence 2"
+},
+{
+"id": "20120038",
+"value": "GUYOT-WALSER, SOPHIE",
+"promotion": "Licence 2"
+},
+{
+"id": "20120039",
+"value": "HACHE, SYLVAIN",
+"promotion": "Licence 1"
+},
+{
+"id": "20110066",
+"value": "HAFFREINGUE, VICTOR",
+"promotion": "Licence 3"
+},
+{
+"id": "20110067",
+"value": "HAMANI, YANIS",
+"promotion": "Licence 3"
+},
+{
+"id": "20110007",
+"value": "HAMSIOU, ZAKARI",
+"promotion": "Licence 2"
+},
+{
+"id": "20120154",
+"value": "HANABLI, OUSSAMA",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20130127",
+"value": "HANTALA, ERIC",
+"promotion": "Licence 1"
+},
+{
+"id": "20090014",
+"value": "HAOUZI, JESSICA",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110217",
+"value": "HAUVILLE, BASTIEN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20130128",
+"value": "HAYOUN, KAREN",
+"promotion": "Licence 1"
+},
+{
+"id": "20090064",
+"value": "HELLEBOID, CHRISTIAN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120040",
+"value": "HELWANI, KHALED",
+"promotion": "Licence 2"
+},
+{
+"id": "20100017",
+"value": "HERAULT, LOUIS",
+"promotion": "Licence 3"
+},
+{
+"id": "20130129",
+"value": "HERBERT, ADRIEN",
+"promotion": "Licence 1"
+},
+{
+"id": "20110068",
+"value": "HERBUNOT, KILLIAN",
+"promotion": "Licence 3"
+},
+{
+"id": "20110069",
+"value": "HERRMANN, JONATHAN",
+"promotion": "Licence 3"
+},
+{
+"id": "20100066",
+"value": "HESS, VALENTIN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090065",
+"value": "HETMANIUK-PERRIER, THÉO",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110170",
+"value": "HOAREAU, NIRY",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090066",
+"value": "HOEUR, DAVID",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100067",
+"value": "HOHNER, NICOLAS",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110071",
+"value": "HOQUET-TRENTINELLA, HADRIEN",
+"promotion": "Licence 2"
+},
+{
+"id": "20130130",
+"value": "HORLAVILLE, JOCELYN",
+"promotion": "Licence 1"
+},
+{
+"id": "20130131",
+"value": "HOSEK, ANTON",
+"promotion": "Licence 1"
+},
+{
+"id": "20080063",
+"value": "HUBERT, CHARLOTTE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120156",
+"value": "HUBERT, PIERRE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120174",
+"value": "HUBERT, THOMAS",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110218",
+"value": "HUET, MAXIMILIEN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110219",
+"value": "HULIN, SOPHIE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120041",
+"value": "HUMBERT, CHARLES",
+"promotion": "Licence 2"
+},
+{
+"id": "20100138",
+"value": "HUYNH, PASCAL",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110072",
+"value": "IA, CEDRIC",
+"promotion": "Licence 2"
+},
+{
+"id": "20110073",
+"value": "IAPADRE, RAPHAËL",
+"promotion": "Licence 2"
+},
+{
+"id": "20120042",
+"value": "IBELIDEN, SFIA",
+"promotion": "Licence 1"
+},
+{
+"id": "20120043",
+"value": "IGYARTO, VINCENT",
+"promotion": "Licence 1"
+},
+{
+"id": "20110171",
+"value": "JABIRI, OMAR",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120044",
+"value": "JACOB, ANTOINE",
+"promotion": "Licence 2"
+},
+{
+"id": "20120157",
+"value": "JAFAR, MOHAMED ACHRAF",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20120111",
+"value": "JAFFRE, VALÉRIAN",
+"promotion": "Passerelle Licence 2"
+},
+{
+"id": "20110074",
+"value": "JAMBOU, ARMELLE",
+"promotion": "Licence 3"
+},
+{
+"id": "20090067",
+"value": "JARASSON, REMI",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20080011",
+"value": "JEGOUIC, ALEXANDRE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20080012",
+"value": "JEHL, EDGARD",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090068",
+"value": "JEHL, PAULINE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120158",
+"value": "JEYANANDAN, JEYAPRAGASH",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20110172",
+"value": "JOCKY NDOUMBE, BRICE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100140",
+"value": "JOSEPH, ALEXANDRE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110220",
+"value": "JOSSE, NOLWENN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100068",
+"value": "JOUAN, FLORIAN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100069",
+"value": "JOUAN, FLORIAN KEVIN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110221",
+"value": "JOUAN, FRÉDÉRIC",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100080",
+"value": "JOUAN, JULIEN",
+"promotion": "Licence 3"
+},
+{
+"id": "20110008",
+"value": "JOURDAIN, KÉVIN",
+"promotion": "Licence 2"
+},
+{
+"id": "20110075",
+"value": "JUNG, MARION",
+"promotion": "Licence 3"
+},
+{
+"id": "20120204",
+"value": "KABRANE, ZAKI",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120159",
+"value": "KANAGARATNAM, SHATHRAK",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120112",
+"value": "KANTHAIYA, DAMIEN",
+"promotion": "Passerelle Licence 1"
+},
+{
+"id": "20080066",
+"value": "KASSEYET KALUME, PAUL JUNIOR",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090069",
+"value": "KATI, ROBBY",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110077",
+"value": "KATSONGERI, LINDSAY",
+"promotion": "Licence 3"
+},
+{
+"id": "20100141",
+"value": "KEBLI, MOUNIR",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20130132",
+"value": "KERICHARD, YANN",
+"promotion": "Licence 1"
+},
+{
+"id": "20110078",
+"value": "KHERROUB, RYADH",
+"promotion": "Licence 3"
+},
+{
+"id": "20100018",
+"value": "KIENTZ, THOMAS",
+"promotion": "Licence 3"
+},
+{
+"id": "20120129",
+"value": "KIM, CHRISTIAN",
+"promotion": "Licence 3"
+},
+{
+"id": "20130133",
+"value": "KIM, PAUL-EMILE",
+"promotion": "Licence 1"
+},
+{
+"id": "20100004",
+"value": "KINGUE, ANNE-SOPHIE",
+"promotion": "Licence 3"
+},
+{
+"id": "20130134",
+"value": "KOFI, ALEXANDRE",
+"promotion": "Licence 1"
+},
+{
+"id": "20120046",
+"value": "KONG, EDDY",
+"promotion": "Licence 2"
+},
+{
+"id": "20120160",
+"value": "KOUAKOU, HALLEYGOUA",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20110222",
+"value": "KOULIBALY, MAMBY",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110132",
+"value": "KRIKORIAN, TOM",
+"promotion": "Licence 3"
+},
+{
+"id": "20090070",
+"value": "LA, JULIE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090015",
+"value": "LABAT, GUILLAUME",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110079",
+"value": "LABOURET, THIBAUT",
+"promotion": "Licence 3"
+},
+{
+"id": "20100005",
+"value": "LACHAISE, MAXIME",
+"promotion": "Licence 3"
+},
+{
+"id": "20120047",
+"value": "LACROIX, LEANDER",
+"promotion": "Licence 2"
+},
+{
+"id": "20100142",
+"value": "LADNER, JADE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120048",
+"value": "LAFFILE, LUCAS",
+"promotion": "Licence 2"
+},
+{
+"id": "20090071",
+"value": "LAHOUD, PAMELA",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100070",
+"value": "LAJUGIE, LAURENT",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090072",
+"value": "LALA, GUILLAUME",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20080070",
+"value": "LALLEMENT, YOANN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110223",
+"value": "LAM, DENIS",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110080",
+"value": "LAMANDE, JULIEN",
+"promotion": "Licence 3"
+},
+{
+"id": "20100071",
+"value": "LAMOUR, CLÉLIE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100072",
+"value": "LAMRI, CÉLIA",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20070002",
+"value": "LAPICHE, ANTONIN",
+"promotion": "Double diplôme - Stage AUDENCIA"
+},
+{
+"id": "20130135",
+"value": "LARDINOIS, MELVIL",
+"promotion": "Licence 1"
+},
+{
+"id": "20090073",
+"value": "LARONCE, MAXIME",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090016",
+"value": "LAUNAY, CHRISTOPHE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120113",
+"value": "LAURENT-GIRAUD, GUILLAUME",
+"promotion": "Passerelle Licence 2"
+},
+{
+"id": "20110081",
+"value": "LAVAUD, FLORIAN",
+"promotion": "Licence 3"
+},
+{
+"id": "20090017",
+"value": "LE BOUCHER D'HEROUVILLE, LOUIS",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100143",
+"value": "LE BRAS, THIBAULT",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20130136",
+"value": "LE GROS, CLARA",
+"promotion": "Licence 1"
+},
+{
+"id": "20100144",
+"value": "LE GUENNEC, ALEXIS",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100073",
+"value": "LE MOIGNE, ARTHUR",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130137",
+"value": "LE NIGER, BENOÎT",
+"promotion": "Licence 1"
+},
+{
+"id": "20080072",
+"value": "LE NIR ABOUL-ENEIN, KARIM",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20130138",
+"value": "LE VAN, ERIC",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20090075",
+"value": "LEBEGUE, SULIAN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090074",
+"value": "LECARDINALDEKERNIER, JEAN",
+"promotion": "Double diplôme - Semestre Académique AUDENCIA"
+},
+{
+"id": "20120162",
+"value": "LECETRE, GUILLAUME",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110224",
+"value": "LECLERCQ, CHARLOTTE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110225",
+"value": "LECLERCQ, GILLES",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120114",
+"value": "LECOY, NICOLAS",
+"promotion": "Passerelle Licence 2"
+},
+{
+"id": "20120050",
+"value": "LECURU, HUGO",
+"promotion": "Licence 1"
+},
+{
+"id": "20100074",
+"value": "LEEMANS-DOLO, MARVIN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090076",
+"value": "LEFLOUR, YANN",
+"promotion": "Double diplôme - Semestre Académique AUDENCIA"
+},
+{
+"id": "20110082",
+"value": "LEFRANC, THOMAS",
+"promotion": "Licence 3"
+},
+{
+"id": "20110083",
+"value": "LEGRAS, JULIEN",
+"promotion": "Licence 3"
+},
+{
+"id": "20090018",
+"value": "LEHMANN, LUDOVIC",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130070",
+"value": "LEI, HAO",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120161",
+"value": "LEMOING, KEVEN",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20120115",
+"value": "LEONG, LUDOVIC",
+"promotion": "Passerelle Licence 1"
+},
+{
+"id": "20100075",
+"value": "LEONG, MAXIME",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100076",
+"value": "LEPOT, FLORIAN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120051",
+"value": "LERENDU, NATHAN",
+"promotion": "Licence 2"
+},
+{
+"id": "20130139",
+"value": "LEROI, JÉRÔME",
+"promotion": "Licence 1"
+},
+{
+"id": "20110084",
+"value": "LEROY, MICKAËL",
+"promotion": "Licence 3"
+},
+{
+"id": "20100077",
+"value": "LESAGE, WILLIAM",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100078",
+"value": "LETEISSIER, FRÉDÉRIC",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130140",
+"value": "LETURCQ, STÉPHANE",
+"promotion": "Licence 1"
+},
+{
+"id": "20120206",
+"value": "LI, HONGYU",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120207",
+"value": "LI, JINGTAO",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20130014",
+"value": "LIM, STEFFIE",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20130048",
+"value": "LIU, HAIYANG",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130054",
+"value": "LIU, RUTIAN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130056",
+"value": "LIU, ZIXING",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130028",
+"value": "LO, PAPA MALICK",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20120164",
+"value": "LOARER, MAUDE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110226",
+"value": "LOPES, DIDIER",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120116",
+"value": "LORA, ANTHONY",
+"promotion": "Passerelle Licence 2"
+},
+{
+"id": "20100079",
+"value": "LOUBONDO, NZIMBOU",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120175",
+"value": "LOURDEL, AMAURY",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120117",
+"value": "LUO, ALBERIC",
+"promotion": "Passerelle Licence 2"
+},
+{
+"id": "20120052",
+"value": "LUONG, VU HAO",
+"promotion": "Licence 1"
+},
+{
+"id": "20130141",
+"value": "MABILLE, GAETAN",
+"promotion": "Licence 1"
+},
+{
+"id": "20130142",
+"value": "MACKONGO, SHAD-SINCLAIR",
+"promotion": "Licence 1"
+},
+{
+"id": "20090019",
+"value": "MAHE, NICOLAS",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120165",
+"value": "MAHIOUZ, OUALID",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110085",
+"value": "MAI, CAROLE",
+"promotion": "Licence 3"
+},
+{
+"id": "20130143",
+"value": "MAISSIN, THIBAUT",
+"promotion": "Licence 1"
+},
+{
+"id": "20130085",
+"value": "MANAI, SABRINA",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110175",
+"value": "MANAI, SABRINE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090077",
+"value": "MANGEOT, ANTOINE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100081",
+"value": "MANIECA, ANTHONY",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110228",
+"value": "MANO, JESSICA",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110229",
+"value": "MANSSENS, CYRIL",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100082",
+"value": "MARGIOTTA, ADRIEN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100083",
+"value": "MARGUERIT, MAXIMILIEN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120166",
+"value": "MARHUENDA, GEOFFREY",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130144",
+"value": "MARIACCIA, ROBIN",
+"promotion": "Licence 1"
+},
+{
+"id": "20110086",
+"value": "MARIE, PAUL-AXEL",
+"promotion": "Licence 3"
+},
+{
+"id": "20120053",
+"value": "MARTIN SAINT LEON, JULIEN",
+"promotion": "Licence 2"
+},
+{
+"id": "20120054",
+"value": "MASLIAH, ROBIN",
+"promotion": "Licence 2"
+},
+{
+"id": "20090020",
+"value": "MASSON, SACHA",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100084",
+"value": "MASUREL, MATHIEU",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130063",
+"value": "MATHIEU, CHARLY PIERRE",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20100145",
+"value": "MATHIEU, PAUL-OLIVER",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120055",
+"value": "MAUPAS, PAUL",
+"promotion": "Licence 2"
+},
+{
+"id": "20110087",
+"value": "MAUREL, THIBAULT",
+"promotion": "Licence 3"
+},
+{
+"id": "20120130",
+"value": "MAURY, JEREMYPRADEEP",
+"promotion": "Licence 3"
+},
+{
+"id": "20120167",
+"value": "MBA, FRED",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120131",
+"value": "MBAIROBE, ARMEL",
+"promotion": "Licence 3"
+},
+{
+"id": "20120170",
+"value": "MECHEMACHE, HANA",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110088",
+"value": "MEDJI, KENNY",
+"promotion": "Licence 3"
+},
+{
+"id": "20110089",
+"value": "MELLOT, JEAN-PASCAL",
+"promotion": "Licence 3"
+},
+{
+"id": "20130145",
+"value": "MELOTTE, JULIEN",
+"promotion": "Licence 1"
+},
+{
+"id": "20110090",
+"value": "MENDES, PATRICK",
+"promotion": "Licence 3"
+},
+{
+"id": "20120056",
+"value": "MERTZ, CLEMENCE",
+"promotion": "Licence 2"
+},
+{
+"id": "20120171",
+"value": "MHAMDI HAMOUDA, HAYET",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20120132",
+"value": "MICHON, LEA",
+"promotion": "Licence 3"
+},
+{
+"id": "20080013",
+"value": "MICHOUX, BENJAMIN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20130146",
+"value": "MIGEOT, YOANN",
+"promotion": "Licence 1"
+},
+{
+"id": "20110091",
+"value": "MILLEQUANT, CHARLES",
+"promotion": "Licence 3"
+},
+{
+"id": "20090078",
+"value": "MILLOUR, QUENTIN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20130075",
+"value": "MO, XIAOHU",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090079",
+"value": "MONJAUD, ROBIN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20130147",
+"value": "MONNIER, ALEXANDRE",
+"promotion": "Passerelle Licence 1"
+},
+{
+"id": "20120057",
+"value": "MONOD, JEAN-BAPTISTE",
+"promotion": "Licence 2"
+},
+{
+"id": "20110092",
+"value": "MORA, BENJAMIN",
+"promotion": "Licence 3"
+},
+{
+"id": "20100085",
+"value": "MORGAN, KEVIN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090021",
+"value": "MORIN, NICOLAS",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110093",
+"value": "MORINIERE, SÉBASTIEN",
+"promotion": "Licence 3"
+},
+{
+"id": "20110094",
+"value": "MOTTE, VINCENT",
+"promotion": "Licence 3"
+},
+{
+"id": "20110095",
+"value": "MOUGEOLLE, GRÉGOIRE",
+"promotion": "Licence 3"
+},
+{
+"id": "20130148",
+"value": "MOUREY, ARNAUD",
+"promotion": "Licence 1"
+},
+{
+"id": "20100086",
+"value": "MOUTOTTE, GRÉGOIRE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110015",
+"value": "MRANI, HICHAM",
+"promotion": "Passerelle Licence 2"
+},
+{
+"id": "20130149",
+"value": "MSIKA, RAPHAËL",
+"promotion": "Licence 1"
+},
+{
+"id": "20130071",
+"value": "MU, NI",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100087",
+"value": "MUNCHERJI, LUDOVIC",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100088",
+"value": "MUSSARD, BRYAN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120059",
+"value": "MUSSARD, NICOLAS",
+"promotion": "Licence 1"
+},
+{
+"id": "20110096",
+"value": "NACER, ROSTOM",
+"promotion": "Licence 3"
+},
+{
+"id": "20110230",
+"value": "NALLAMOUTOU, NATHALIE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120118",
+"value": "NANDAKUMARAN, JANAKAN",
+"promotion": "Passerelle Licence 1"
+},
+{
+"id": "20110287",
+"value": "NASSER, SAMY",
+"promotion": "Licence 3"
+},
+{
+"id": "20130150",
+"value": "NAVATTE, OLIVIER",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20110097",
+"value": "NDONG, HANS",
+"promotion": "Licence 2"
+},
+{
+"id": "20100006",
+"value": "NEVES FERREIRA, THOMAS",
+"promotion": "Licence 2"
+},
+{
+"id": "20090022",
+"value": "NGO, PAUL-HENRY",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110231",
+"value": "NGO, STEVEN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110288",
+"value": "NGUYEN LE, FLORENCE",
+"promotion": "Licence 3"
+},
+{
+"id": "20070003",
+"value": "NGUYEN, ARNAUD",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100089",
+"value": "NGUYEN, MINH-HOANG",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110098",
+"value": "NGUYEN, QUOC BAO KEVIN",
+"promotion": "Licence 3"
+},
+{
+"id": "20100090",
+"value": "NICOT, ADRIEN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20080014",
+"value": "NIGRO, ANISS",
+"promotion": "Double diplôme - Stage AUDENCIA"
+},
+{
+"id": "20130151",
+"value": "NISOLE, OLIVIER",
+"promotion": "Licence 1"
+},
+{
+"id": "20130152",
+"value": "NITROSSO, JOACHIM",
+"promotion": "Licence 1"
+},
+{
+"id": "20110011",
+"value": "NOTON, ROMAIN",
+"promotion": "Licence 2"
+},
+{
+"id": "20120172",
+"value": "NOUIS, HICHEM",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20130079",
+"value": "NOVEMBRE, MANUEL",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20110099",
+"value": "ODDON, ALOÏS",
+"promotion": "Licence 3"
+},
+{
+"id": "20090081",
+"value": "ODIER, VALENTIN",
+"promotion": "Double diplôme - Semestre Académique AUDENCIA"
+},
+{
+"id": "20130153",
+"value": "OK, CHRISTIAN",
+"promotion": "Licence 1"
+},
+{
+"id": "20100091",
+"value": "OKOU, MAXIME",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120061",
+"value": "OLIVA, ALEXANDRE",
+"promotion": "Licence 1"
+},
+{
+"id": "20110232",
+"value": "OLLIVIER, JEAN-VICTOR",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110100",
+"value": "ORENSTENNE, SAMUEL",
+"promotion": "Licence 3"
+},
+{
+"id": "20110133",
+"value": "OTTO, LUDOVIC",
+"promotion": "Licence 3"
+},
+{
+"id": "20100146",
+"value": "OUARDANI, BRAHIM",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110176",
+"value": "OUCHENE, AMIR",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100092",
+"value": "OUHRAICH, NAJAT",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110233",
+"value": "OUNSY, GEOFFREY",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120173",
+"value": "OUYED, CECILIA",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120062",
+"value": "OVERZEE, CEDRICK",
+"promotion": "Licence 1"
+},
+{
+"id": "20090082",
+"value": "PACCA, GIANNA",
+"promotion": "Master Spécialisé"
+},
+{
+"id": "20090083",
+"value": "PANZA-CARRIER, ISIS",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090084",
+"value": "PAPAZIAN, VAROUJAN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100093",
+"value": "PARMENTIER, JULIEN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100147",
+"value": "PATEL, MOHAMMAD",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110101",
+"value": "PAUL, ALEXIS",
+"promotion": "Licence 3"
+},
+{
+"id": "20120120",
+"value": "PAULET, LOUIS",
+"promotion": "Passerelle Licence 2"
+},
+{
+"id": "20090023",
+"value": "PAYELLE, SÉBASTIEN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130154",
+"value": "PAYEN DE LA GARANDERIE, CHARLES",
+"promotion": "Licence 1"
+},
+{
+"id": "20110102",
+"value": "PAYET, ANTOINE",
+"promotion": "Licence 3"
+},
+{
+"id": "20100094",
+"value": "PEILLON, ANTOINE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100095",
+"value": "PEQUIGNOT, CHARLOTTE",
+"promotion": "Licence 3"
+},
+{
+"id": "20130155",
+"value": "PERCHEZ, THOMAS",
+"promotion": "Licence 1"
+},
+{
+"id": "20120065",
+"value": "PEREZ, MATTHIAS",
+"promotion": "Licence 2"
+},
+{
+"id": "20090085",
+"value": "PERRONNY, LAURA",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110103",
+"value": "PETIT, DELPHINE",
+"promotion": "Licence 3"
+},
+{
+"id": "20130156",
+"value": "PETIT, FRANCIS",
+"promotion": "Licence 2"
+},
+{
+"id": "20130157",
+"value": "PETIT, MEHDI",
+"promotion": "Licence 1"
+},
+{
+"id": "20090086",
+"value": "PETOT, JEAN-LOUP",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120066",
+"value": "PEYROUTATBASSE, JEROME",
+"promotion": "Licence 2"
+},
+{
+"id": "20110104",
+"value": "PFLIEGER, THOMAS",
+"promotion": "Licence 3"
+},
+{
+"id": "20120067",
+"value": "PHILIPPE, ARNAUD",
+"promotion": "Licence 2"
+},
+{
+"id": "20110234",
+"value": "PHILIPPE, SIMON",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20130158",
+"value": "PHO, YIONG",
+"promotion": "Licence 1"
+},
+{
+"id": "20100096",
+"value": "PIC, ROMAIN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110134",
+"value": "PIERONNE, KÉVIN",
+"promotion": "Licence 3"
+},
+{
+"id": "20130159",
+"value": "PIGAUX, GUILLAUME",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20120176",
+"value": "PIN, GUILLAUME",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100097",
+"value": "PIRLOT, JOHANN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120068",
+"value": "PITTION-ROSSILLON, ANTOINE",
+"promotion": "Licence 2"
+},
+{
+"id": "20110177",
+"value": "PLESDIN, ALYSSA",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100098",
+"value": "POIRIEUX, BENOÎT",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110105",
+"value": "PONNOURADJANE, ANDRÉ",
+"promotion": "Licence 3"
+},
+{
+"id": "20120069",
+"value": "PONSONNET, VINCENT",
+"promotion": "Licence 2"
+},
+{
+"id": "20120070",
+"value": "POSTADJIAN, MARINE",
+"promotion": "Licence 2"
+},
+{
+"id": "20120071",
+"value": "POSTEL, JULIEN",
+"promotion": "Licence 2"
+},
+{
+"id": "20120177",
+"value": "POTAGE, LUC",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110106",
+"value": "POULET, THOMAS",
+"promotion": "Licence 3"
+},
+{
+"id": "20110135",
+"value": "POUSTIS, GABRIEL",
+"promotion": "Licence 3"
+},
+{
+"id": "20130160",
+"value": "PRENANT, LOUIS",
+"promotion": "Licence 1"
+},
+{
+"id": "20080015",
+"value": "PREVOTAT, AXEL PIERRE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110107",
+"value": "PREVOTAT, STAN",
+"promotion": "Licence 3"
+},
+{
+"id": "20130161",
+"value": "PRIEURDELACOMBLE, MARTIN",
+"promotion": "Passerelle Licence 1"
+},
+{
+"id": "20130065",
+"value": "PROSPERI, BRICE ADRIEN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130020",
+"value": "PROSPERI, REMI",
+"promotion": "Licence 1"
+},
+{
+"id": "20100099",
+"value": "PRUNIER, ANNE-CAROLINE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130040",
+"value": "QIAN, KUN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090087",
+"value": "QUACH, LAM-MINHREMY",
+"promotion": "Master Spécialisé"
+},
+{
+"id": "20130162",
+"value": "QUELAIN, ETIENNE",
+"promotion": "Licence 1"
+},
+{
+"id": "20100148",
+"value": "QUENEL, SIMON",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20130163",
+"value": "RAHIM KHAN, DANIAL",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20100149",
+"value": "RAMANOUDJAME, SRIKANTH",
+"promotion": "Master Spécialisé"
+},
+{
+"id": "20130164",
+"value": "RAMDANI, MOHAMMED AMINE",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20110235",
+"value": "RAMIREZ, JUAN",
+"promotion": "Master Spécialisé"
+},
+{
+"id": "20100100",
+"value": "RAMOS, ADRIEN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120072",
+"value": "RAMPAL, MARC",
+"promotion": "Licence 2"
+},
+{
+"id": "20090088",
+"value": "RAPILLY, THOMAS",
+"promotion": "Master Spécialisé"
+},
+{
+"id": "20110109",
+"value": "RAT, PASCAL",
+"promotion": "Licence 3"
+},
+{
+"id": "20120121",
+"value": "RATEAU, LAËTITIA",
+"promotion": "Passerelle Licence 2"
+},
+{
+"id": "20110236",
+"value": "RATIARISON, WITHNEY",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100150",
+"value": "RATSARAZAKA RATSIMANDRESY, ANDRY",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100151",
+"value": "RAYNAL, MARTIN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120073",
+"value": "RAZOUK, HAÏSSAM",
+"promotion": "Licence 2"
+},
+{
+"id": "20120179",
+"value": "RAZZOUK, KHALID",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20120179",
+"value": "RAZZOUK, KHALID",
+"promotion": "Licence 2"
+},
+{
+"id": "20110237",
+"value": "REBOUL, SEBASTIEN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090089",
+"value": "RENAULT, CLÉMENCE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110136",
+"value": "RENOUX, PIERRE",
+"promotion": "Licence 3"
+},
+{
+"id": "20080103",
+"value": "RIAHI, CHEKER",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090090",
+"value": "RICHEBOIS, MAXIME",
+"promotion": "Master Spécialisé"
+},
+{
+"id": "20110110",
+"value": "RIOU, MATTHIEU",
+"promotion": "Licence 3"
+},
+{
+"id": "20120178",
+"value": "R-MATHIVANAN, RODRIGUE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120075",
+"value": "RMILI, MARWANN",
+"promotion": "Licence 1"
+},
+{
+"id": "20120076",
+"value": "ROBAKOWSKI, SYLVAIN",
+"promotion": "Licence 2"
+},
+{
+"id": "20130165",
+"value": "ROBBIANI, ETIENNE",
+"promotion": "Licence 1"
+},
+{
+"id": "20130166",
+"value": "ROBERT, FLORIAN",
+"promotion": "Licence 1"
+},
+{
+"id": "20100101",
+"value": "ROBERT, MAXIME",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130022",
+"value": "ROBERT, TIMOTHEE",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20100152",
+"value": "ROCHE, JOANNA",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100153",
+"value": "RODENBURG, ADRIEN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110111",
+"value": "RODRIGUES, NICOLAS",
+"promotion": "Licence 3"
+},
+{
+"id": "20090024",
+"value": "RODRIGUEZ, BENJAMIN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130167",
+"value": "ROELS, CLEMENT",
+"promotion": "Licence 1"
+},
+{
+"id": "20100154",
+"value": "ROLENGA AYOMBO, DIMITRI",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110238",
+"value": "ROMERO, CLÉMENTINE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090091",
+"value": "RONDEAU, MÉLANIE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110239",
+"value": "ROQUES, DAMIEN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110240",
+"value": "ROUA, EMMANUELLE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110241",
+"value": "ROUBINET, ARNAUD",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120077",
+"value": "ROUE, RONAN",
+"promotion": "Licence 2"
+},
+{
+"id": "20120181",
+"value": "ROUILLE, BRUNO",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100102",
+"value": "ROULEY, DAVID",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20080104",
+"value": "ROULIER, QUENTIN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090092",
+"value": "ROUX, NICOLAS",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090093",
+"value": "ROUZET, LOUIS",
+"promotion": "Double diplôme - Semestre Académique AUDENCIA"
+},
+{
+"id": "20120078",
+"value": "RUL-DA CUNHA, ILLAN",
+"promotion": "Licence 2"
+},
+{
+"id": "20090094",
+"value": "RUTH, WILLIAM",
+"promotion": "Master Spécialisé"
+},
+{
+"id": "20110112",
+"value": "RYCKBOSCH, LOUIS",
+"promotion": "Licence 3"
+},
+{
+"id": "20130066",
+"value": "SADEGHI, NICOLAS SAM",
+"promotion": "Licence 2"
+},
+{
+"id": "20120182",
+"value": "SADJAN, SADJY",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100155",
+"value": "SAIDI, MEHDI",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110256",
+"value": "SAIDI, SARRA",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20130168",
+"value": "SAILLY, NICOLAS",
+"promotion": "Licence 1"
+},
+{
+"id": "20120183",
+"value": "SAKAMOTO, MONTA",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100103",
+"value": "SALA, JULIEN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090025",
+"value": "SALAMA, MARIE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110113",
+"value": "SALHI, SÉLIM",
+"promotion": "Licence 3"
+},
+{
+"id": "20100019",
+"value": "SALIB, JÉRÉMY",
+"promotion": "Licence 3"
+},
+{
+"id": "20130016",
+"value": "SALINARO, AYMERIC JULIEN",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20110242",
+"value": "SALOMON, NICOLAS",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100104",
+"value": "SANCHEZ, ALEXIS",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110243",
+"value": "SANSALONE, THIBAULT",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100105",
+"value": "SASPORTAS, ILAN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100106",
+"value": "SAVIDAN, AGNÈS",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100107",
+"value": "SAYADA, CYRIL",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090095",
+"value": "SBERRO, AURÉLIEN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100156",
+"value": "SCHMITT, ESTEBAN",
+"promotion": "Césure"
+},
+{
+"id": "20120079",
+"value": "SEBAG, GABRIEL",
+"promotion": "Licence 2"
+},
+{
+"id": "20110114",
+"value": "SEDLETZKI, IVAN",
+"promotion": "Licence 3"
+},
+{
+"id": "20110244",
+"value": "SEGAR, NATARAJAN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120080",
+"value": "SERINGOM MANGALOM, ÉMMANUEL",
+"promotion": "Licence 1"
+},
+{
+"id": "20120081",
+"value": "SERVAGENT, ANTHONY",
+"promotion": "Licence 2"
+},
+{
+"id": "20110137",
+"value": "SEYMARC, THOMAS",
+"promotion": "Licence 3"
+},
+{
+"id": "20100108",
+"value": "SHAFIK, IBRAM",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110115",
+"value": "SHANMUGALINGAM, SINTHUJAH",
+"promotion": "Licence 3"
+},
+{
+"id": "20120222",
+"value": "SIDDIQUI, SAEED",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090096",
+"value": "SIDIBE, HERMANN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20080016",
+"value": "SIGWALT, PIERRE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120184",
+"value": "SIKIDI, LOIC",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20100109",
+"value": "SILVA, CRISTIANO",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110245",
+"value": "SINGH, RAVINDER",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120082",
+"value": "SITRUK, NOÉMIE",
+"promotion": "Licence 2"
+},
+{
+"id": "20110246",
+"value": "SIVAGNANASUNDARAM, SYLVIA",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20130169",
+"value": "SOARES, EDOUARD",
+"promotion": "Licence 1"
+},
+{
+"id": "20100110",
+"value": "SOLA, ALEXANDRE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130067",
+"value": "SONG, XIAOFAN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130088",
+"value": "SOUADJI, MOHAMED",
+"promotion": "Licence 2"
+},
+{
+"id": "20130170",
+"value": "SOUBARAS, ANTOINE",
+"promotion": "Licence 1"
+},
+{
+"id": "20080112",
+"value": "SOULTANY, JÉRÉMY",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110116",
+"value": "SOUVANNASAO, THOMAS",
+"promotion": "Licence 3"
+},
+{
+"id": "20110138",
+"value": "SPORN, QUENTIN",
+"promotion": "Licence 3"
+},
+{
+"id": "20130060",
+"value": "SRIPATHMANATHAN, ALAIN",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20110117",
+"value": "STEINER, RAPHAËL",
+"promotion": "Licence 2"
+},
+{
+"id": "20090097",
+"value": "SUBRAMANIAM, SINDUYAN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120192",
+"value": "SYLIKI, MICHAEL",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20090026",
+"value": "TAINE, BENOIT",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120083",
+"value": "TAING, BRUNO",
+"promotion": "Licence 2"
+},
+{
+"id": "20130171",
+"value": "TARQUINI, ADRIEN",
+"promotion": "Licence 1"
+},
+{
+"id": "20100157",
+"value": "TASSONE, CAMILLE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090098",
+"value": "TAV, HASLEY",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120185",
+"value": "TAZI, FARID",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090099",
+"value": "TCHEUTSEUN TSANG, SONAM DOLMA",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090100",
+"value": "TEBIB, KALIL",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110118",
+"value": "TETE, JORDAN",
+"promotion": "Licence 3"
+},
+{
+"id": "20090101",
+"value": "THAI, GEORGES",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120084",
+"value": "THAVONE, ÉMILIE",
+"promotion": "Licence 2"
+},
+{
+"id": "20090146",
+"value": "THEBAULT, YANN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20130172",
+"value": "THEMINE, BAPTISTE",
+"promotion": "Licence 1"
+},
+{
+"id": "20100111",
+"value": "THEROND, JONATHAN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120085",
+"value": "THIVET, FABRICE",
+"promotion": "Licence 2"
+},
+{
+"id": "20100158",
+"value": "THOMAS, FLORE",
+"promotion": "Double diplôme - Stage AUDENCIA"
+},
+{
+"id": "20100020",
+"value": "THOMAS, LINDSAY",
+"promotion": "Licence 3"
+},
+{
+"id": "20110247",
+"value": "TIAN, LU",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090027",
+"value": "TIQUET-DURIEZ, FLORIAN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090102",
+"value": "TIRELPINEL, PIERRE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110119",
+"value": "TO, JOHN-MICHAEL",
+"promotion": "Licence 3"
+},
+{
+"id": "20110178",
+"value": "TOGNIA NGATCHOU, MARILYN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120186",
+"value": "TOINON, ULRIC",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130173",
+"value": "TORAILLE, ANTOINE",
+"promotion": "Licence 1"
+},
+{
+"id": "20120086",
+"value": "TORRECILLOS, RONAN",
+"promotion": "Licence 2"
+},
+{
+"id": "20120087",
+"value": "TOUATI, WALLY",
+"promotion": "Licence 2"
+},
+{
+"id": "20110120",
+"value": "TOURNIER, VINCENT",
+"promotion": "Licence 3"
+},
+{
+"id": "20110121",
+"value": "TOUSSAINT, FLORIAN",
+"promotion": "Licence 3"
+},
+{
+"id": "20110122",
+"value": "TOUSSAINT, MORGAN",
+"promotion": "Licence 3"
+},
+{
+"id": "20120088",
+"value": "TOUTAIN, ANTOINE",
+"promotion": "Licence 2"
+},
+{
+"id": "20130174",
+"value": "TOUTZEVITCH, EMILIEN",
+"promotion": "Licence 1"
+},
+{
+"id": "20090028",
+"value": "TRAN, ANTONY",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120089",
+"value": "TRAN, BENOIT",
+"promotion": "Licence 2"
+},
+{
+"id": "20090103",
+"value": "TRAN, THANH VAN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100112",
+"value": "TRAN, THIERRY",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120187",
+"value": "TRANG, DIDIER",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120188",
+"value": "TRANGDITTANG, CEDRIC",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090104",
+"value": "TREIBER, NICOLAS",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120189",
+"value": "TREILLARD, JÉRÉMIE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110248",
+"value": "TRIDON, MARTHI",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20130023",
+"value": "TROTTO, ANTHONY",
+"promotion": "Licence 3 ASYRIA"
+},
+{
+"id": "20130175",
+"value": "TSAFACK NANYIM , ALAIN CHRISTIAN",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20080119",
+"value": "TSHIUNZA KABEYA, OLIVIER",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100159",
+"value": "UCH, JEAN-LUC",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110249",
+"value": "ULCE, NADÉRA",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110123",
+"value": "URBINO, MAEVA",
+"promotion": "Licence 3"
+},
+{
+"id": "20110124",
+"value": "URVOY, YOANN",
+"promotion": "Licence 3"
+},
+{
+"id": "20130176",
+"value": "VAILLANT, ROMAIN",
+"promotion": "Licence 1"
+},
+{
+"id": "20130177",
+"value": "VALENTIN, ADRIEN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20090105",
+"value": "VANIER, MAXIME",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090106",
+"value": "VANNELLI, SALOMÉ",
+"promotion": "Césure"
+},
+{
+"id": "20080017",
+"value": "VARACCA, THIBAULT",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120091",
+"value": "VAROQUEAUX, ALEXIS",
+"promotion": "Licence 2"
+},
+{
+"id": "20100113",
+"value": "VASILE, MIHAI LÉONARD",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120092",
+"value": "VAULDIN, NOÉMIE",
+"promotion": "Licence 2"
+},
+{
+"id": "20100248",
+"value": "VAY, SINDY",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120093",
+"value": "VERA, LAURANNE",
+"promotion": "Licence 2"
+},
+{
+"id": "20100160",
+"value": "VERCLYTTE, CHRISTOPHE",
+"promotion": "Master Spécialisé"
+},
+{
+"id": "20090107",
+"value": "VERDIER, ALEXANDRE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100161",
+"value": "VERRIERE, BERTRAND",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20130178",
+"value": "VESCHAMBRE, VALENTIN",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20120094",
+"value": "VEZIER, TONY",
+"promotion": "Licence 2"
+},
+{
+"id": "20120095",
+"value": "VIARD, RÉMI",
+"promotion": "Licence 2"
+},
+{
+"id": "20100022",
+"value": "VIAUD, YVES",
+"promotion": "Licence 3"
+},
+{
+"id": "20120096",
+"value": "VIGUIER, KILIAN",
+"promotion": "Licence 2"
+},
+{
+"id": "20090108",
+"value": "VILAINE, GABRIEL",
+"promotion": "Master Spécialisé"
+},
+{
+"id": "20110250",
+"value": "VITTI, ADRIEN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20080018",
+"value": "VONG, NICOLAS",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20090109",
+"value": "VONG, PATRICK",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100162",
+"value": "WAKIM, MARIE",
+"promotion": "Double diplôme - Semestre Académique AUDENCIA"
+},
+{
+"id": "20130037",
+"value": "WANG, GUANJI",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130072",
+"value": "WANG, JUN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110251",
+"value": "WENDLING, FLORIANE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110252",
+"value": "WIRTZ, NICOLAS",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100114",
+"value": "WIZEL, ALEXANDRE",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110125",
+"value": "WU, DAVID",
+"promotion": "Licence 3"
+},
+{
+"id": "20120230",
+"value": "WU, HUIZHEN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120230",
+"value": "WU, HUIZHEN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20130024",
+"value": "WU, KEVIN",
+"promotion": "Licence ' 3"
+},
+{
+"id": "20130077",
+"value": "WU, XIAN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130068",
+"value": "XING, QIUPING",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110295",
+"value": "XU, JING",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110017",
+"value": "XU, PATRICE",
+"promotion": "Passerelle Licence 2"
+},
+{
+"id": "20100163",
+"value": "YAKOY-KOBOZO, CHRISTELIN",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20130179",
+"value": "YIN, YIHUI",
+"promotion": "Licence 1"
+},
+{
+"id": "20130010",
+"value": "YOEURP, JULIEN",
+"promotion": "Licence 1"
+},
+{
+"id": "20130180",
+"value": "YREUX, ANTOINE",
+"promotion": "Licence 1"
+},
+{
+"id": "20080019",
+"value": "YVIN, ALEXIS",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20130181",
+"value": "ZAMMIT, HUGO",
+"promotion": "Licence 1"
+},
+{
+"id": "20110253",
+"value": "ZANIN, ALEXANDRE",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20110254",
+"value": "ZARABA, HAFID",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20100164",
+"value": "ZEGGOUD, NEJOUA",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20130069",
+"value": "ZHANG, MINGMING",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120241",
+"value": "ZHEN, HONGBO",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120241",
+"value": "ZHEN, HONGBO",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20130053",
+"value": "ZHENG, DAWEI",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120190",
+"value": "ZHENG, ZHENXIU",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110126",
+"value": "ZHONG, WILLIAM",
+"promotion": "Licence 3"
+},
+{
+"id": "20130055",
+"value": "ZHOU, XIJUN",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20130073",
+"value": "ZHOU, XUANRU",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20120097",
+"value": "ZHU, YONGYUN",
+"promotion": "Licence 2"
+},
+{
+"id": "20130057",
+"value": "ZHUANG, SHUANG",
+"promotion": "Master 1 EFREI"
+},
+{
+"id": "20110127",
+"value": "ZOLLET, KÉVIN",
+"promotion": "Licence 3"
+},
+{
+"id": "20120098",
+"value": "ZOU, PHILIPPE",
+"promotion": "Licence 2"
+},
+{
+"id": "20130182",
+"value": "ZOUAGHI, YAKINE",
+"promotion": "Licence 1"
+},
+{
+"id": "20110255",
+"value": "ZOZIME, ZIVA",
+"promotion": "Master 2 EFREI"
+},
+{
+"id": "20120191",
+"value": "ZUMMO, GIANNI",
+"promotion": "Master 1 EFREI"
+}
+]
